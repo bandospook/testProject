@@ -13,7 +13,8 @@ table {
 	border-collapse: collapse;
 }
 th {
-	background-color: teal;
+	background-color: black;
+	color: white;
 }
 th,td {
 	border: 1px solid black;
