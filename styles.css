@@ -12,6 +12,9 @@ table {
 	border: 2px solid black;
 	border-collapse: collapse;
 }
+th {
+	background-color: teal;
+}
 th,td {
 	border: 1px solid black;
 	padding: 2px;
