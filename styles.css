@@ -38,3 +38,7 @@ table.center {
 div.tricolumn {
 	column-count: 3;
 }
+
+body {
+	font-family: sans-serif;
+}
