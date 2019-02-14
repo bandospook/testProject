@@ -2,27 +2,45 @@ h1 {
 	color: darkblue;
 	text-align: center;
 }
+
 h2 {
 	color: darkgray;
 	text-align: center;
 }
+
 table {
-	text-align: center;
 	width: 50%;
 	border: 2px solid black;
 	border-collapse: collapse;
+	text-align: center;
 }
+
 th {
 	background-color: black;
 	color: white;
 	border: 1px solid white;
 }
+
 td {
 	border: 1px solid black;
 }
+
 th,td {
 	padding: 2px;
 }
+
 p {
 	text-align: center;
+}
+
+table.center {
+	width:70%;
+	margin-left:15%;
+	margin-right:15%;
+}
+
+div.tricolumn {
+	width: 30%;
+	column-count: 3;
+	column-gap: 10px;
 }
